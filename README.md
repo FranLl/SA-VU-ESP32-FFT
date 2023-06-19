@@ -5,6 +5,7 @@ This project has been developed for an assignment at the [University of Cordoba,
 
 ## Results
 The project is not finished nor is it visually pretty, as all the wires are in the air and it is not in any box.
+
 ![Photo of the project](images/project.jpg)
 
 ## Setting up the circuit
@@ -12,9 +13,10 @@ The only changes I have made with respect to the s-marley project have been to j
 If you have any doubts about why the resistors or the capacitor are connected in this way, you can see the explanation in his project.
 
 The connection I have made has been:
+
 ![Diagram of the project](images/diagram.png)
 
-As can be seen, the location of the final project with respect to the diagram is not the same but the connection is the same. Also, I have used a 32 x 8 LED matrix but the diagram design program did not have such a matrix, so I had to use 4 of 8 x 8 LEDs.
+As can be seen, the location of the components the final project with respect to the diagram is not the same but the connection is the same. Also, I have used a 32 x 8 LED matrix but the diagram design program did not have such a matrix, so I had to use 4 of 8 x 8 LEDs.
 
 ## Controls
 The matrix is controlled from three buttons. The functions are:

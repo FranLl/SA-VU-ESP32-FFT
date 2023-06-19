@@ -19,10 +19,10 @@ As can be seen, the location of the final project with respect to the diagram is
 ## Controls
 The matrix is controlled from three buttons. The functions are:
 * Left button
- - Single press: Change audio input
+    - Single press: Change audio input
 * Center button
- - Single press: Change pattern
- - Long press: auto-change pattern on
+    - Single press: Change pattern
+    - Long press: auto-change pattern on
 * Right button
- - Single press: Change brightness
- - Long press: Power off LEDs (brightness = 0)
+    - Single press: Change brightness
+    - Long press: Power off LEDs (brightness = 0)

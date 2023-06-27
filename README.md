@@ -4,19 +4,19 @@ Vumeter with ESP32 and Fast Fourier Transform on an ESP32 and outputting to a 32
 This project has been developed for an assignment at the [University of Cordoba, Spain](https://www.uco.es/).
 
 ## Results
-The project is not finished nor is it visually pretty, as all the wires are in the air and it is not in any box.
+The project is not finished nor is it visually pretty, as all the wires are exposed and not in any box.
 
 ![Photo of the project](images/project.jpg)
 
 ## Setting up the circuit
-The only changes I have made with respect to the s-marley project have been to join the two circuits, separate the functions of the buttons and add the display.
+The changes I have made with respect to the s-marley project have been to join the two circuits, separate the functions of the buttons and add the display.
 If you have any doubts about why the resistors or the capacitor are connected in this way, you can see the explanation in his project.
 
 The connection I have made has been:
 
 ![Diagram of the project](images/diagram.png)
 
-As can be seen, the location of the components the final project with respect to the diagram is not the same but the connection is the same. Also, I have used a 32 x 8 LED matrix but the diagram design program did not have such a matrix, so I had to use 4 of 8 x 8 LEDs.
+As can be seen, the location of the components the final project with respect to the diagram is not the same but the connection is the same. Also, I have used a 32 x 8 LED matrix but the diagram design program did not have such that matrix, so I had to use 4 of 8 x 8 LEDs.
 
 ## Controls
 The matrix is controlled from three buttons. The functions are:

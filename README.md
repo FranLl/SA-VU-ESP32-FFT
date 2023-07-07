@@ -1,5 +1,5 @@
 # Vumeter-ESP32-FFT
-Vumeter with ESP32 and Fast Fourier Transform on an ESP32 and outputting to a 32 x 8 FastLED matrix. The code is modified from [this s-marley's project](https://github.com/s-marley/ESP32_FFT_VU).
+Spectrum Analyzer and Vumeter with ESP32 and Fast Fourier Transform on an ESP32 and outputting to a 32 x 8 FastLED matrix. The code is modified from [this s-marley's project](https://github.com/s-marley/ESP32_FFT_VU).
 
 This project has been developed for an assignment at the [University of Cordoba, Spain](https://www.uco.es/).
 
